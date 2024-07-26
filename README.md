@@ -1,0 +1,7 @@
+- redux toolkit
+- create slice aka feature
+- cart slide & modal slice
+- redux devtools for dubugging
+- createAsyncThunk for data fetching
+- thunkApi
+- extraReducers to builder callback notation
